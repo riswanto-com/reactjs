@@ -7,7 +7,7 @@ import Index from './component/App';
 
 ReactDOM.render(
   <React.StrictMode>
-   <Index/>
+   <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
